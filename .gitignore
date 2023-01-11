@@ -1,0 +1,6 @@
+.gitignore
+.idea
+.venv
+main.py
+tt.py
+r.py
